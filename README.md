@@ -71,7 +71,7 @@ Maven have to be installed on local
 
 "maven test" for testing
 
-"mvn spring-boot:run" for getting service up 
+"mvn thorntail:run" for getting service up 
 
       
 © [Volkan Cetin]()
